@@ -108,4 +108,4 @@ Although this implementation uses **Telegram**, the same automation logic can be
 
 Built by **Jessé Honório Carvalho** — Automation & AI enthusiast.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Connect with me on [LinkedIn](http/www.linkedin.com/in/jessé-honório-carvalho-3125892b5) | [GitHub](https://github.com/yourusername)
