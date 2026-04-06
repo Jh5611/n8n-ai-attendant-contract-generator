@@ -36,7 +36,7 @@ This project consists of **two complementary automated workflows**:
 - Formatter
 
 ### Workflow Preview
-![Workflow 1 - AI Attendant](./images/workflow1.png)
+https://github.com/Jh5611/n8n-ai-attendant-contract-generator/blob/main/Workfolw_1.jpeg
 
 ---
 
