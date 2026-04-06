@@ -58,7 +58,7 @@ https://github.com/Jh5611/n8n-ai-attendant-contract-generator/blob/main/Workfolw
 - Gmail (Send confirmation email)
 
 ### Workflow Preview
-![Workflow 2 - Contract Generator](./images/workflow2.png)
+https://github.com/Jh5611/n8n-ai-attendant-contract-generator/blob/main/Workfolw_2.jpeg
 
 ---
 
