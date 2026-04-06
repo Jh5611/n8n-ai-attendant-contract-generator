@@ -106,6 +106,6 @@ Although this implementation uses **Telegram**, the same automation logic can be
 
 ## 👩‍💻 Author
 
-Built by **[Your Name]** — Automation & AI enthusiast.
+Built by **Jessé Honório Carvalho** — Automation & AI enthusiast.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
